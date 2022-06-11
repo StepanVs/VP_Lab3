@@ -1,0 +1,66 @@
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Lab_3Vitalik\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Oleg\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\Lab_3Oleg\Lab_3\obj\Debug\Lab_3.pdb
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
